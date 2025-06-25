@@ -44,7 +44,7 @@ export default function RootLayout() {
         options={{
           headerShown: true,
           title: "Menu",
-          headerTitle: "Menu",
+          headerTitle: "Coffee Shop Menu",
         }}
       />
       <Stack.Screen
