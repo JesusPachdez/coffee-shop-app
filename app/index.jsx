@@ -1,14 +1,15 @@
+import React from "react";
 import {
-  View,
-  Text,
-  StyleSheet,
   ImageBackground,
   Pressable,
+  StyleSheet,
+  Text,
+  View,
 } from "react-native";
-import React from "react";
+
+import icedCoffee from "@/assets/images/iced-coffee.png";
 
 import { Link } from "expo-router";
-const icedCoffee = require("@/assets/images/iced-coffee.png");
 
 const App = () => {
   return (
@@ -52,14 +53,6 @@ const styles = StyleSheet.create({
     textAlign: "center",
     backgroundColor: "rgba(0, 0, 0, 0.5)",
     marginBottom: 120,
-  },
-  link: {
-    color: "white",
-    fontSize: 42,
-    fontWeight: "bold",
-    textAlign: "center",
-    backgroundColor: "rgba(0, 0, 0, 0.5)",
-    padding: 4,
   },
   button: {
     height: 60,
