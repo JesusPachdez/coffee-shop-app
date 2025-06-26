@@ -262,25 +262,10 @@ The app features three main screens:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Contact
-
-For questions about this project, please contact:
-
-**Coffee Shop**
-
-- 📍 555 Coffee Lane, Kansas City, KS 55555-1234
-- 📞 555-555-5555
-- 🕐 Open 6am to 4pm daily
-
 ## 🙏 Acknowledgments
 
 - Coffee images sourced from high-quality stock photography
 - Built with love using React Native and Expo
-- Inspired by modern coffee shop experiences
 
 ---
 
